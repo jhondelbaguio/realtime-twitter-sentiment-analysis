@@ -27,3 +27,7 @@ cd api
 yarn install
 yarn start-dev
 ```
+
+### Screenshot
+
+![alt text](https://raw.githubusercontent.com/jhondelbaguio/realtime-twitter-sentiment-analysis/master/screenshot.png)
