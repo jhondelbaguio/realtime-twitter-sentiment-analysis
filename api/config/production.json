@@ -1,0 +1,12 @@
+{
+	"app": {
+		"port": "6060",
+		"name": "Server API Developmentxxxxx",
+		"logLevel": "info",
+		"path": "http://localhost:5050"
+	},
+	"JWT_SECRET": "q",
+	"MONGO_URL": "mongodb://localhost:27017/graphqlsample",
+	"NODE_ENV": "development",
+	"UPLOAD_PATH": "uploads"
+}

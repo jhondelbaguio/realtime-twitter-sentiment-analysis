@@ -1,0 +1,12 @@
+{
+	"app": {
+		"port": "PORT",
+		"name": "APP_NAME",
+		"logLevel": "LOG_LEVEL",
+		"path": "APP_PATH"
+	},
+	"JWT_SECRET": "JWT_SECRET",
+	"MONGO_URL": "MONGO_URL",
+	"NODE_ENV": "NODE_ENV",
+	"UPLOAD_PATH": "UPLOAD_PATH"
+}
